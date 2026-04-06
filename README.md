@@ -1,10 +1,8 @@
-# Modelo de projeto de ciência de dados
+# Projeto de previsão de preços de imóveis na California
 
-Modelo de projeto de ciência de dados para ser utilizado como referência em projetos
-futuros. Desenvolvido por mim, [Francisco Bustamante](https://github.com/chicolucio),
-para alunos iniciantes em ciência de dados de meus cursos e mentorias.
+Projeto desenvolvido por mim juntamente com o professor Francisco Bustamante da Hashtag
 
-Inspiração: [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+Inspiração: [California Housing Prices - Data Science]([https://drivendata.github.io/cookiecutter-data-science/](https://www.kaggle.com/datasets/camnugent/california-housing-prices))
 
 Clique no botão **Use this template** para criar um novo repositório com base neste modelo.
 
